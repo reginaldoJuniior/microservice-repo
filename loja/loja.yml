@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: root
-    username: fornecedor
+    username: loja
     url: jdbc:mysql://localhost:3306/loja?useTimezone=true&serverTimezone=UTC
   jpa:
     hibernate:
